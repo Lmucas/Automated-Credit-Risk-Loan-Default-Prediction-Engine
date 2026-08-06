@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+xgboost
+optuna
+imbalanced-learn
+shap
+fairlearn
+fastapi
+uvicorn
+pydantic
+kagglehub
+pytest
